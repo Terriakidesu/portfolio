@@ -1,0 +1,9 @@
+.playwright-mcp/
+.vscode/
+review-*.png
+
+# Keep original source media local; deploy the compressed files in assets/optimized/.
+assets/artworks/
+assets/doodles/
+assets/profile/
+assets/timelapses/
